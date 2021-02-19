@@ -6,7 +6,7 @@ import './WeatherApp.css'
 
 const api = {
   key: "0e9fc031bdb394de3336591509d1fde4",
-  base: "http://api.openweathermap.org/data/2.5/",
+  base: "https://api.openweathermap.org/data/2.5/",
   // http://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=0e9fc031bdb394de3336591509d1fde4
 };
 function WeatherApp() {
